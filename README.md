@@ -14,7 +14,7 @@ There are **FOUR** types of assessment in this paper:
 4. Exam
 
 ## Updates on my work
-* ![Project 1](https://github.com/phuong-tr/stats220/blob/main/index.html)
+* [Project 1](https://github.com/phuong-tr/stats220/blob/main/index.html)
 * Project 2
 * Project 3
 * Project 4
